@@ -1,4 +1,4 @@
-# masterclass-responsividade
+# Layout Resposivo
 Masterclass resposividade da rockeatseat
 
 
